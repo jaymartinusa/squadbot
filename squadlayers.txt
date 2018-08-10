@@ -1,0 +1,83 @@
+Map	Layer	Gamemode	Minimap	Capture Points	Time Limit	BLUFOR	BLUFOR Tickets	BLUFOR Spawn (Map)	BLUFOR Spawn (Aerial)	BLUFOR Secondary Spawn (Map)	BLUFOR Secondary Spawn (Aerial))	BLUFOR Vehicles	OPFOR	OPFOR Tickets	OPFOR Spawn (Map)	OPFOR Spawn (Aerial)	OPFOR Secondary Spawn (Map)	OPFOR Secondary Spawn (Aerial)	OPFOR Vehicles
+Al Basrah	Conquest v1	Conquest	https://i.imgur.com/DNSstS3.jpg	Outskirts, Mukhtar Isle, Servo		US	500	https://i.imgur.com/l3vFwo9.jpg	https://i.imgur.com/CIX6ihV.jpg			Main: 1x Bradley, 1x Stryker, 1x CROWS MRAP, 3x OT MRAP, 2x Transports, 2x Logistics	INS	550	https://i.imgur.com/WLnOZrY.jpg	https://i.imgur.com/GSGdBPs.jpg			Main: 3x SPG-A, 1x SPG, 2x DShK-AS, 2x DShK, 3x Techie Logistics, 3x Techie Transport, 1x AA Truck 
+Al Basrah	INS v1	Insurgency	https://lh3.googleusercontent.com/YwonoKNAtD9R6mWC4MNJJObBubM6idzeFvvySzwdcl3M4QMRV5bw3-N-0Td-16SlLnpMcdfYVngeQdM0OM1_o9R6heBLUwqItytSAFsYDf0mx0M2HFqt2jAY4pNvTPtq1-XIGe35qik4ZAkypg-Nz7yAicjteTbNt-2AkqNRBA3mNxpefcEpxQ2gg8yeATaCCuO5b2rfugpAUEpGfHVjt_U8sM7m6HTtLG3sIPj0oZYZMPHbzqDG5Fo0B7OnoI5BWly95HWCqWDqrifYPNMzSpL5d9dwT0SKqYaUvCegYXvfEHxAT45hmfGhxBCdpKdipvTIvv6elraEWeFePWt9IhCea4hSPgfXGq9Ko9achPH6091PwD6z4jBeQvO02lk3ArnQOrM8YXVbM129XPCnShwqZCHDhSi3fM1CmRJwHtFZpiO5_kdyvbQtaeeEKMSOwfZ6y757ujRFL8dtGyvCG5tNJwbGcpc9yZijXw_rI64Ij6uccZr3FJKrK4kWH88M5M-ZuQK8qP-MOk-BYJ6ixPSJ5SMPG-XMAprs1mpmOrBPKjcGVWV1L1-1JzyZX9Le1KyqDvINOuK-gr0M36ZnZ0NxMCj4H4dmaQMV7S3ow9HF6vmxAIb-hmI5ccWMbCAFXCtLD7D1psQ09uQHXoirFgmVlpfOvG0=w958-h539-no			GBR	300	https://lh3.googleusercontent.com/Y9K6-gxe8OewQ7-qjxYjmkbflhxPWl-j26m9wzrKiXgFCa3PTOqeP8XeBPJxueT2A1oX3XHvw9Fi_mveaUMnsNZYhhHC5B6CILzMwb_Vd3D0xG7ULZ_L0jos1SfnZSU4KMdKv4VYr2WowoTuIL-wJEmcChlzHpkzhU1JP7wofjgM57bEWb3zXDhOkshGwl8mYJ2prDJc6OqXQd_-WCb-MbPu7zg-4yumoq32hhho2r2u1UCwYq63GW5KKJ10vE3ts3juOqPKEl7EKFv-gK6FwTNZwBMxNryUF4vtLF0cAXBX29GNFl7H9GqVlpUtNIa8Qtu-jUZ-fOVfnR7lTsjstwKoErtU5ed0rYaHmvP6znA2SLlFC3e5sDj_8vjS_LeGOANZ2_nazIIFr-YGWyi8srwRiqu2IgtQWH0radljHgk9B3PR8cZLQL45zx9hdGBzurNHP0krNN6GnlG2RFHtnf0t3CkVqK5ApXgKoH8w2-skRmau_U_F3fCsF6LPLOZEYeS7OCn_HhkG4Fej7J9LEwzCy3-E8SlARyIvXi8AIT4MpkG6AftLNJKtdfpBPTkJvEAd6D1LrJRI37V9osotC7DpcxsOPFxC9XU0LlQHK-2shPB3fTiXSplBo5mEi5HTtEAC2KXmzH7_pSd1zieEX3RkYga7zDo=w1732-h974-no	https://lh3.googleusercontent.com/ukDgCoCcUlJ54jujUbfXN4vQfu6mWUj11ZO7sPITfIrmtCEhniOM4RxuncshnhrMFCxa-_-JwUDzD14aKXFgZhJtUVaNIetuChQXkk-XRPFVtVk2VM5LKmT4237AnmUKEscxdGzTidxL5JNpBYMSzd3f1OSszwrfdyRS2SsGWZyS-bQODTOxI8h5F4n_e1Va-Q4-d7TK0fYtbcfrqWfs8B2sn9PpjuEutaJPQpru9o4nTnL--_eqWwUAUC-8Gyamig66obFa5VRmmkBEheh4Z4HdDv8fD1Qi5dIYMO6N70qPypKR7l7LZOyr69157cRBy4e7FgKU5vZLU7ox_8djGGbb5dSWUuime-5gcG3lzTHrGNxta6jqlLzw4yDD413zDtbSaR2-hYLWFmP_XzeJRlj5GcVtAqcikF7DLyHzjis9eGUsg4xi41JyW77h4ttZZKBmx0Dy3bQR7StqEzpOzguGCOtpYumAo7BHBwFIvclsS0GI3ENBXaF2dKiz3qbkSXezuN315Os1LD8g7km6PQDNJvUjPRFrqedv9Fngp2kbMe9FWFwfdP2lOBUowdUlvA4ZXJE0FUOhJIr6mCIuxRMK4lV8Gjkc2H6VbNN6EfbpTu7AQ0qHizXiJMK7_7d0BbmWtJBX4Uo024JhG87PHir-NpPBLdU=w1732-h974-no			Main: 3x Stryker, 2x British Logistics, 2x British Transport	INS	600	https://photos.google.com/u/2/share/AF1QipNxM1d_97l8gXAcefgLrMg1WcZ4v30rTpD73fskxf1VSJszN4fVbTQstQROKfMwUw/photo/AF1QipOuJTm2vsr75LtL1XxB1l2tvVektoFB6M-WU3bu?key=OExseXFWUEk0T2cyMllfQ0dYNUVzNWhEYnZSTGFB				Village: 1x DShK, 1x Techie Logistics. Outskirts: 1x DShK, 2x Bike. Mosque: 1x Techie Logistics, 1x SPG, 1x Bike. Suburbs: 1x DShK, 1x Bike. Oasis: 1x Techie Logistics, 2x Bike 1x DShK. Fringe: 1x Techie Logistics, 1x Bike, 1x DShK. Estates: 1x Techie Logistics, 1x Bike, 1x DShK, 1x SPG. Alleys: 1x Techie Logistics, 2x Bike
+Al Basrah	INV v1	Invasion	https://lh3.googleusercontent.com/4oHJerIPbU8ajuBVH9UzZSLq9u6amwc0Oc2q0S_3qP3HjaM924NGUlLBLbPFyq-LDktowYssRSwp3yfKYew4V5vbGcw36IlQu4m4WVD8dONO6t1Yz0itZS-VOSOClD8yjiJ5IvzVS0FS_gUlzfYUvCTsR79ij6oJq1V9XwPCZ5QETNAdqzaNMpgKxgQCJDMF7AWs6gxQWV2pE6pjpGhweRGzqky2jIf7nMBADq7jPlz7LREcyURVIHFwmF0F4jMoRmc66rxpqQOb-9kcSJbFPzoKWJ_bCi_zevAThlwnWJKfuYoc89plJUEt_oVIczPJKvW0lz112OlR3D74LC2HDHvwI2lKHX2gjB8lAwy4K1TpmcKRWLue-UOoxgqk7QM3wlx8EhlcOJluC-Opmf5FDhg5wbbbJk40m4wO-_RIzH817af9OXfl5v3ojyOQWUgpLnDlNwhGtKpSS3afY86Ih9J3GegN69s_7jWps0lMo_7TRoeUr6LZGQfe6jbvFq8wVVU8TH8etNvnBtaQd5AyxwKqVNPX7h57lOphyFMBXK_Dh0XMez78C2y8Im2THYU97otIyMuX1XBR48Wb5JGtbSlvKTSBwZ8GpsxV7vFqB7jXp-rsJ-C6C2MLNX_hSDDTGKRcVZmdhdgJxYaa39zDE0oqFkN5Trg=w1732-h974-no			GBR	200	https://lh3.googleusercontent.com/3CQsAi2peZHPqoShBnp_n5RoL1UX0A13zGPfxNZOh6DAMHd_JVBb6qB0XUNwYVXnF9OC2NeFXWq9B8XviLhMN917uo-f9128WmtGzIIagvs_FQQGymfIp_dqgRhALS5jm1CvQKg8yWN2ednqHydR05cq3mj1dyGuU3GMkBhaKEKUqfchGq_-FfgjDJrzAQM25093qA508P2vmE3zi0P6YhMjpNw-fpSHSXea8JCYARYcFHfwu32bk9pOylD7e0uIZOaxHqRwFTMB7sZRG1QAdoBhuf5IBePKNkR8e-E0LzPcGWhwLa7elS0xTuPExFsssvAMNa0sq6EIOh9JMZMGfDBBOBRNgAiJFUMB6YdAwdoNcD_7CZe-wxdYbrQwKndkGACbYuzPXww3hNPBxwkPSZgj5LERKfWNxsPYAgBp4crgO4xdBSxsRRboWtysY05V1EMO5G0iZNKtF5gPJVDOQJGEglBRrnJcNr8qBd5NxeMKnrPCEhQuTV6dd1RiCTdzWwYpnrhN5gSjb-V2gRVhDElpHV8slSD3Fm-0rDokcjsDNSvfNqNF63zODPN6592nKH6owq-sEGNwft_JzrqWCyEwCJrnE9sQzu9SK0AuGTHWTf672V6tr1yf-glRjeLj5NIlGD_5PF1sQH2gzCNSq8wODWCJNMY=w1732-h974-no	https://lh3.googleusercontent.com/binhxod-bSLxjbh6jO3BBIlQP3vVTdGx84OwR2vtQZMk6p7cQkCd8JEyG55kzod0UgJn2ceu6EXniy3TGxYSY4Xvu6HMnTxb0NYnZw59gxBH4_oU9gDcRUXGAILTc6Q8b7LQkWHYRrf0jHucWr8ZQ_3ajRHkjs0V21wZ9HXJcz3QwVRyvzFBSrdo56MOWESUsBB78LDkK3SNT3bIFOECLtDNOCfowXUjitWlXR5Zc1IR1M0m3fu81GpLfH18s30pLOC0TlXqDOrReD4g4zxf0YSkeBAHdru-fNkWHZXk99pRn61n99m3jZ3cSqA0yW5tsUz-ge4kX0JIfftPDFaRcWD4T3oQCp8glb0K0LwkVrgSTKkz5dOXWbp_bY4ngxn5EsDpdMWrgoem-NserINJw3HnWQbhxSi25HJK8xD94OPvaLJAtxH6O78Xlj9uxhKqGIxCPh1tu5jnlvSXDOQA6c7nQIz5Opj4t0gh7d_bTIrBpu3ZWjDxnVIbEjnjQ3Zdg37P5BCR3SE44dy6TMSjZtdjzsW8gQeHHzi-JJPoURpnvnppCG6Uu7VA4_0zxs_250QC7cTMPrUAxurXGqHrowvsg0k7ZXCwCkf_tGJv2t8TWc44PxdOaNCySwkW3gakQHhAWePiPw3Hsxg8DSw67sUhVPiaWOY=w1732-h974-no	https://photos.google.com/u/2/share/AF1QipNxM1d_97l8gXAcefgLrMg1WcZ4v30rTpD73fskxf1VSJszN4fVbTQstQROKfMwUw/photo/AF1QipNPhbpzUF7_-hCsHhtRhBvqgmQWsdnBqU-XUWpm?key=OExseXFWUEk0T2cyMllfQ0dYNUVzNWhEYnZSTGFB	https://photos.google.com/u/2/share/AF1QipNxM1d_97l8gXAcefgLrMg1WcZ4v30rTpD73fskxf1VSJszN4fVbTQstQROKfMwUw/photo/AF1QipOBhK8AkgytzzR9FRRLsobVsXTqj8ZB4JpJJKR7?key=OExseXFWUEk0T2cyMllfQ0dYNUVzNWhEYnZSTGFB	Main: 3x Warrior, 2x British Logistics, 2x British Transport. VCP: 1x British Transport	INS	800	https://photos.google.com/u/2/share/AF1QipNxM1d_97l8gXAcefgLrMg1WcZ4v30rTpD73fskxf1VSJszN4fVbTQstQROKfMwUw/photo/AF1QipPdrLKjxiyDSJDnjoBk_Hvy612czvfq7qqCPr77?key=OExseXFWUEk0T2cyMllfQ0dYNUVzNWhEYnZSTGFB	https://photos.google.com/u/2/share/AF1QipNxM1d_97l8gXAcefgLrMg1WcZ4v30rTpD73fskxf1VSJszN4fVbTQstQROKfMwUw/photo/AF1QipN7SEnDIOhEVSWfPdZwfjQsICtKfPc3EQNnCL28?key=OExseXFWUEk0T2cyMllfQ0dYNUVzNWhEYnZSTGFB	https://photos.google.com/u/2/share/AF1QipNxM1d_97l8gXAcefgLrMg1WcZ4v30rTpD73fskxf1VSJszN4fVbTQstQROKfMwUw/photo/AF1QipMwv4LP35nnsvnvm2xPnWV-rQ8ek9zs1DmfsCqT?key=OExseXFWUEk0T2cyMllfQ0dYNUVzNWhEYnZSTGFB	https://photos.google.com/u/2/share/AF1QipNxM1d_97l8gXAcefgLrMg1WcZ4v30rTpD73fskxf1VSJszN4fVbTQstQROKfMwUw/photo/AF1QipNnTn8PxLU65Swc_l1MFBzMtFLRnevQk9puF4hM?key=OExseXFWUEk0T2cyMllfQ0dYNUVzNWhEYnZSTGFB	Main: 3x Techie Logi, 5x Bike, 1x SPG, 1x SPG-A, 1x AA Truck, 1x Rocket Techie, 1x DShK-AS, 2x DShK. Mosque: 1x Techie Logistics, 3x Bike, 1x Scout Car, 1x SPG-A
+Al Basrah	INV v2	Invasion	https://lh3.googleusercontent.com/vIVuEso_TL6t3M8Z8QcSfmwFNL9uppf6mUWX9ZF-OMFk2xaWSwukJHQnl6rbSN8MFrg7NVq9G8DwHcQ568z07nVZHfGYv2yx0asK5glL8Lpo4FIknsHhlEdN0vdGCF_-xRUDjC8eM_EV2afEfTjCXf4tUOWTEOsG1z7X5HQg5UUtJrYg2hG3IJC5r__NcVMxbnYUFzSaXxRJsISK5mUa27-N8Z3Gpyqv776unwwC7ezKqV_xOvSdn4nYdeTB2YfKhusLlcfL5me1QlDEOfm9Sh2L1-Jb9zzjn57Ua_qsHF6YVCAe_yznTD7SO-FqoCN26_rQlYK_5CiBA2mmiZwx-IZf6CjXmYPPalXMR2nkR-jAR6O2BQ7ngILPtCjA9e-zrltmATH02AXea4sIqTraPBf1fyWgRG-s2M-KdX1KJ1kuDxuQwlC0ZLPqsf1UezmpZLid_VdSS10Pb9h61ZRnSxYntb5TqDZO2G2B7PFFODv2s67Zi397e1pkt-CLHfqZvI70X6mXfWkoIS6gujZWJXzs3lTvOXNahS8v1Cv1rI0UftokC9btlVwJeznOWyKJGPzT8zoqZu440bsREBjDAtnPHg1ucPQQIY-iUOVSVP51_ooVJEPh-qNyehioDWvmT-kXWj7vFo1YieAJGybo2Jd27iEEw6k=w1732-h974-no			GBR	200	https://photos.google.com/u/2/share/AF1QipNxM1d_97l8gXAcefgLrMg1WcZ4v30rTpD73fskxf1VSJszN4fVbTQstQROKfMwUw/photo/AF1QipNkkE6Xdxjvbp9nl77MRvVC4hjUnWPUBRlhZGk8?key=OExseXFWUEk0T2cyMllfQ0dYNUVzNWhEYnZSTGFB	https://photos.google.com/u/2/share/AF1QipNxM1d_97l8gXAcefgLrMg1WcZ4v30rTpD73fskxf1VSJszN4fVbTQstQROKfMwUw/photo/AF1QipMwtsFxLkGAn6Ho6BVuv7AvykNamJypGbfYLr0a?key=OExseXFWUEk0T2cyMllfQ0dYNUVzNWhEYnZSTGFB			Main: 4x Warrior, 2x British Logistics, 2x British Transport	INS	800	https://photos.google.com/u/2/share/AF1QipNxM1d_97l8gXAcefgLrMg1WcZ4v30rTpD73fskxf1VSJszN4fVbTQstQROKfMwUw/photo/AF1QipOw0uGABCiclJAASRzMOZZWLXKdoUoXsh3zH4UE?key=OExseXFWUEk0T2cyMllfQ0dYNUVzNWhEYnZSTGFB	https://photos.google.com/u/2/share/AF1QipNxM1d_97l8gXAcefgLrMg1WcZ4v30rTpD73fskxf1VSJszN4fVbTQstQROKfMwUw/photo/AF1QipP8rarDFS9MHoaRn73EEDnHPwumEDPxXT_GaOk8?key=OExseXFWUEk0T2cyMllfQ0dYNUVzNWhEYnZSTGFB	https://photos.google.com/u/2/share/AF1QipNxM1d_97l8gXAcefgLrMg1WcZ4v30rTpD73fskxf1VSJszN4fVbTQstQROKfMwUw/photo/AF1QipN6dXfO1n9NdZlSeS6ByTP9PznO9U4AwsGDFJjp?key=OExseXFWUEk0T2cyMllfQ0dYNUVzNWhEYnZSTGFB	https://photos.google.com/u/2/share/AF1QipNxM1d_97l8gXAcefgLrMg1WcZ4v30rTpD73fskxf1VSJszN4fVbTQstQROKfMwUw/photo/AF1QipNcjhVD6l5Zq8WvOKCE6Y-zqmnCZLm0GVpgNGuG?key=OExseXFWUEk0T2cyMllfQ0dYNUVzNWhEYnZSTGFB	Main: 3x Techie Logi, 5x Bike, 1x SPG, 1x SPG-A, 1x AA Truck, 1x Rocket Techie, 1x DShK-AS, 2x DShK. Mosque: 1x Techie Logistics, 3x Bike, 1x Scout Car, 1x SPG-A
+Al Basrah	PAAS v1	PAAS																	
+Al Basrah	PAAS v2	PAAS																	
+Belaya	AAS v1	AAS																	
+Belaya	AAS v2	AAS																	
+Belaya	AAS v3	AAS																	
+Belaya	INV v1	Invasion																	
+Belaya	INV v2	Invasion																	
+Belaya	PAAS v1	PAAS																	
+Chora	AAS v1	AAS																	
+Chora	AAS v1 INF Night	AAS/INF																	
+Chora	AAS v2	AAS																	
+Chora	Conquest v1	Conquest																	
+Chora	INS v1	Insurgency																	
+Chora	INV v1 Night	Invasion																	
+Chora	PAAS v1	PAAS																	
+Fool's Road	AAS v1	AAS																	
+Fool's Road	AAS v1 INF	AAS/INF																	
+Fool's Road	AAS v2	AAS																	
+Fool's Road	AAS v3	AAS																	
+Fool's Road	AAS v4	AAS																	
+Fool's Road	Conquest v1	Conquest																	
+Fool's Road	Skirmish	Skirmish	https://i.imgur.com/OncHJa1.jpg	OP Fortress, Train Station, Mine Entrance		US	150	https://i.imgur.com/EDDTNoo.jpg	https://i.imgur.com/A4iN8Af.jpg			Main: 1x M939 Logistics, 1x OT MRAP	RU	150	https://i.imgur.com/u6EYK29.jpg	https://i.imgur.com/zuw91et.jpg			Main: 1x URAL 4320 Logistics, 1x MTLB-NSVT
+Gorodok	AAS v1	AAS																	
+Gorodok	AAS v1 INF	AAS/INF																	
+Gorodok	AAS v2	AAS																	
+Gorodok	AAS v3	AAS																	
+Gorodok	AAS v4	AAS																	
+Gorodok	INV v1	Invasion																	
+Gorodok	INV v2	Invasion																	
+Gorodok	INS v1	Insurgency																	
+Kamdesh	AAS v1	AAS																	
+Kamdesh	AAS v1 INF	AAS/INF																	
+Kamdesh	INS v1	Insurgency																	
+Kamdesh	INS v2	Insurgency																	
+Kamdesh	INV v1	Invasion																	
+Kamdesh	INV v2	Invasion																	
+Kamdesh	INV v3	Invasion																	
+Kamdesh	PAAS v1	PAAS																	
+Kohat	AAS v1	AAS																	
+Kohat	AAS v1 INF	AAS/INF																	
+Kohat	AAS v2	AAS																	
+Kohat	INS v1	Insurgency																	
+Kohat	INV v1	Invasion																	
+Kokan	AAS v1	AAS																	
+Kokan	AAS v2	AAS																	
+Kokan	INS v1	Insurgency																	
+Kokan	PAAS v1	PAAS																	
+Logar	PAAS v1	PAAS																	
+Logar	AAS v1	AAS																	
+Logar	AAS v1 INF	AAS/INF																	
+Logar	INS v1	Insurgency																	
+Logar	INS v1 Night	Insurgency																	
+Mestia	AAS v1	AAS																	
+Mestia	AAS v2	AAS																	
+Mestia	INV v1	Invasion																	
+Mestia	INV v2	Invasion																	
+Mestia	PAAS v1	PAAS																	
+Narva	AAS v1	AAS																	
+Narva	AAS v2	AAS																	
+Narva	AAS v3	AAS																	
+Narva	INV v1	Invasion																	
+Narva	INV v2	Invasion																	
+Narva	PAAS v1	PAAS																	
+Narva	PAAS v2	PAAS																	
+Narva	INS v1	Insurgency																	
+Sumari	AAS v1	AAS																	
+Sumari	AAS v1 INF	AAS/INF																	
+Sumari	AAS v2	AAS																	
+Sumari	AAS v3	AAS																	
+Sumari	INS v1	Insurgency																	
+Sumari	ITC v1	ITC	https://i.imgur.com/SJbOBw8.png	Sector 1, Sector 2, Sector 3, Sector 4, Sector 5	1h 30m	MIL	400	https://i.imgur.com/q18QIrB.jpg	https://i.imgur.com/kQc9jnY.jpg	https://i.imgur.com/OrTtSQ1.jpg	https://i.imgur.com/y9yR4nN.jpg	Main: 1x DShK, 1x DShK-S, 1x SPG, 1x URAL 375D Logistics	INS	9999	https://i.imgur.com/FrvDOXp.jpg	https://i.imgur.com/JMrNQVz.jpg			Main: 1x DShK, 1x SPG, 1x Techie Logistics. Sector 2: 1x DShK-S. Police Station: 1x DShK-S
+Yehorivka	AAS v1	AAS																	
+Yehorivka	AAS v1 INF	AAS/INF																	
+Yehorivka	AAS v2	AAS																	
+Yehorivka	AAS v3	AAS																	
+Yehorivka	INV v1	Invasion																	
+Yehorivka	INV v2	Invasion																	
+Yehorivka	INS v1	Insurgency																	
